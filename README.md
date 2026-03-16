@@ -52,10 +52,9 @@ An Excel dashboard was created to display key metrics and insights using charts,
 
 
 ## Dashboard Preview
-
-
+<img width="932" height="695" alt="Screenshot 2026-03-16 203934" src="https://github.com/user-attachments/assets/279a36cb-be19-4e80-bc0f-6cdf4529d9c3" />
 
 ## Repository Contents
 customer_churn_analysis.xlsx
-project_report.pdf
+customer chhurn analysis report.docx
 dashboard_preview.png
